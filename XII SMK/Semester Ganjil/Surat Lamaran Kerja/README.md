@@ -22,8 +22,8 @@
         3. Penulisan perihal sejajar dengan tempat dan tanggal surat.
     - Contoh :
     ```
-    Perihal: lamaran pekerjaan                                                                      Surakarta, 20 Juni 2021
-    Lampiran: 3 (tiga) lembar
+    Perihal  : lamaran pekerjaan                                                                     Surakarta, 20 Juni 2021
+    Lampiran : 3 (tiga) lembar
     ```
 3. Lampiran Surat
     - Menunjukkan jumlah dokumen yang disertakan dalam surat lamaran pekerjaan.
@@ -78,6 +78,42 @@
 
 ## Contoh 
 ### Surat Lamaran Kerja
+```
+Perihal  : lamaran pekerjaan                                                                        Surakarta, 1 April 2021 
+lampiran : 6 (enam) lembar
+
+Yth. Bapak/Ibu Pimpinan
+PT Indonusa Galang Utama
+Jalan Merdeka No. 10
+Surakarta
+
+Dengan hormat,
+Berdasarkan informasi di surat kabar Republika pada tanggal 3 Maret 2021, PT Indonusa Galang 
+Utama sedang membuka lowongan pekerjaan untuk bagian administrasi. Oleh karena itu, saya yang 
+bertanda tangan di bawah ini,
+nama                : Sarita Dewi
+jenis kelamin       : Perempuan
+usia                : 19 tahun
+alamat              : Jalan Slamet Riyadi No. 127, Kerten, Laweyan, Surakarta
+pendidikan terakhir : SMA
+nomor telepon       : 08562887xxxx
+
+dengan ini mengajukan lamaran pekerjaan sebagai karyawan bagian administrasi di PT Indonusa 
+Galang Utama. Saya adalah seorang pekerja keras dan bersemangat dalam mempelajari hal baru. 
+Adapun berkas-berkas pendukung yang saya lampirkan adalah sebagai berikut.
+1. Fotokopi ijazah (2 lembar).
+2. Pasfoto 4 x 6 (2 lembar).
+3. Fotokopi KTP.
+4. Fotokopi Kartu Keluarga.
+5. Riwayat hidup.
+6. Sertifikat Pelatihan Microsoft Office.
+
+    Demikian surat lamaran ini saya buat dengan sebenarnya. Kiranya saya diperkenankan untuk 
+mengikuti tahapan-tahapan selanjutnya. Atas perhatian Bapak/Ibu, saya ucapkan terima kasih.
+                                                                                                      Hormat saya,
+                                                                                                    {taanda tangan}
+                                                                                                      Sarita Dewi
+```
 ### Riwayat Hidup
 ```
                                                             RIWAYAT HIDUP
