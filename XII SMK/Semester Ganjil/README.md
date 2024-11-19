@@ -10,7 +10,18 @@
 1. Tempat dan Tanggal Surat
     - Merupakan keterangan tempat dan waktu saat dibuat.
     - Umumnya ditulis dipojok kanan atas atau pojok kanan bawah sebelum salam penutup.
-    - Contoh
+    - Contoh :
     ```
-                                                                                                        Surakarta,20 Juni 2021
+                                                                                                        Surakarta, 20 Juni 2021
+    ```
+2. Perihal Surat
+    - Menerangkan pekara yang menjadi isi pokok dalam surat yang ditujukan untuk melamar pekerjaan.
+    - Syarat penulisan :
+        - Kata perihal diikuti dengan tanda titik dua.
+        - Huruf pertama kata perihal menggunakan huruf kapital dan kata selanjutnya menggunakan huruf kecil.
+        - Penulisan perihal sejajar dengan tempat dan tanggal surat.
+    - Contoh :
+    ```
+    Perihal: lamaran pekerjaan                                                                          Surakarta, 20 Juni 2021
+    Lampiran: 3 (tiga) lembar
     ```
