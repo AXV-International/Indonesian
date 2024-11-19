@@ -58,7 +58,7 @@
     ```
                                                                                                         Hormat saya,
                                                                                                        {Tanda Tangan}
-                                                                                                    Siti Nurfadhila, S.E.
+                                                                                                    Siti Nurmasyitah, S.E.
     ```
 
 ## Contoh 
