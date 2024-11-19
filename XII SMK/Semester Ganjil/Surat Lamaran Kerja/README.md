@@ -60,6 +60,10 @@
             Oleh karena itu, saya bermaksud untuk bergabung dengan perusahaan.
             ```
         2. Paragraf Isi
+            - Berisi gambaran identitas pelamar secara lengkap dan jelas.
+            - Menjelaskan beberapa informasi diri pelamar, seperti nama, jenis kelamin, usia, alamat, pendidikan terakhir, dan kontak yang dapat dihubungi.
+        3. Paragraf Penutup
+            - Berisi harapan dari pelamar agar dapat diterima diperusahaan yang dilamar. Selain itu, paragraf ini berisi ucapan terimakasih.
 
 7. Salam Penutup
     - Umumnya, untuk salam penutup menggunakan `Hormat saya,` disertai akhiran tanda baca koma [`,`]. 
