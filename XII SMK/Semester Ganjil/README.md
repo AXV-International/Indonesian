@@ -50,12 +50,22 @@
     - Penulisan menggunakan huruf kapital diawal kata dan huruf kecil untuk kata selanjutnya.
 6. Isi Surat
     - 
+7. Salam Penutup
+    - Umumnya, untuk salam penutup menggunakan `Hormat saya,` disertai akhiran tanda baca koma [`,`]. 
+8. Tanda Tangan dan Nama Jelas Pengirim
+    - Tanda tangan serta nama pembuat surat lamaran pekerjaan berada dipojok kanan bawah.
+    - Contoh :
+    ```
+                                                                                                        Hormat saya,
+                                                                                                       {Tanda Tangan}
+                                                                                                    Siti Nurfadhila, S.E.
+    ```
 
 ## Contoh 
 ### Surat Lamaran Kerja
 ### Riwayat Hidup
 ```
-                                                RIWAYAT HIDUP
+                                                            RIWAYAT HIDUP
 Nama                        : Afif Fahira Zakiyah, A.Md.
 Tempat, Tanggal Lahir       : Surakarta, 28 September 1996
 Jenis Kelamin               : Perempuan
@@ -76,5 +86,9 @@ PENDIDIKAN NONFORMAL :
 -> 2011-2014 Kursus Bahasa Inggris LIA, Surakarta
 
 KEAHLIAN :
-->
+-> Mengoperasikan Microsoft Office: Word, Excel, PowerPoint, Access, dan Outlook
+-> Berbicara bahasa Indonesia (aktif) dan bahasa Inggris (aktif)
+
+PENGALAMAN KERJA :
+-> 2018-2021 Klinik Budi Sehat sevagai staf administrasi
 ```
