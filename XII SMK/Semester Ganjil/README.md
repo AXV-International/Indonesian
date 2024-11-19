@@ -12,5 +12,5 @@
     - Umumnya ditulis dipojok kanan atas atau pojok kanan bawah sebelum salam penutup.
     - Contoh
     ```
-                                                                Surakarta,20 Juni 2021
+                                                                                                        Surakarta,20 Juni 2021
     ```
