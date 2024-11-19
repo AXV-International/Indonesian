@@ -110,6 +110,7 @@ Adapun berkas-berkas pendukung yang saya lampirkan adalah sebagai berikut.
 
     Demikian surat lamaran ini saya buat dengan sebenarnya. Kiranya saya diperkenankan untuk 
 mengikuti tahapan-tahapan selanjutnya. Atas perhatian Bapak/Ibu, saya ucapkan terima kasih.
+                                                                                               
                                                                                                       Hormat saya,
                                                                                                     {taanda tangan}
                                                                                                       Sarita Dewi
