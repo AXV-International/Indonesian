@@ -25,3 +25,14 @@
     Perihal: lamaran pekerjaan                                                                          Surakarta, 20 Juni 2021
     Lampiran: 3 (tiga) lembar
     ```
+3. Lampiran Surat
+    - Menunjukkan jumlah dokumen yang disertakan dalam surat lamaran pekerjaan.
+    - Befungsi untuk memeriksa jumlah dokumen yang disertakan.
+    - Pada umumnya, dokumen yang disertakan adalah :
+        - Riwayat Hidup
+        - Fotokopi legalisasi ijazah 
+        - Fotokopi legalisasi transkrip nilai
+        - Fotokopi KTP [Kartu Tanda Pengenal]
+        - SKCK [Surat Keterangan Catatan Kepolisian]
+        - Sertifikasi kompetensi
+4. 
