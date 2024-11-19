@@ -12,7 +12,7 @@
     - Umumnya ditulis dipojok kanan atas atau pojok kanan bawah sebelum salam penutup.
     - Contoh :
     ```
-                                                                                                        Surakarta, 20 Juni 2021
+                                                                                                    Surakarta, 20 Juni 2021
     ```
 2. Perihal Surat
     - Menerangkan pekara yang menjadi isi pokok dalam surat yang ditujukan untuk melamar pekerjaan.
@@ -22,7 +22,7 @@
         - Penulisan perihal sejajar dengan tempat dan tanggal surat.
     - Contoh :
     ```
-    Perihal: lamaran pekerjaan                                                                          Surakarta, 20 Juni 2021
+    Perihal: lamaran pekerjaan                                                                      Surakarta, 20 Juni 2021
     Lampiran: 3 (tiga) lembar
     ```
 3. Lampiran Surat
