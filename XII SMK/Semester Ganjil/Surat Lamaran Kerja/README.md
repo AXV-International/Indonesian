@@ -55,10 +55,12 @@
             - Biasanya memuat sumber informasi tempat pelamar mendapatkan lowongan pekerjaan yang disebutkan dan jabatannya.
             - Contoh :
             ```
-            Berdasarkan informasi dari surat kabar Republika pada tanggal 19 Juli 2021, PT Mahardika Manajemen Group membuat lowongan pekerjaan untuk bagian pemasaran. Oleh karena itu, saya bermaksud untuk bergabung dengan perusahaan.
+            Berdasarkan informasi dari surat kabar Republika pada tanggal 19 Juli 2021, 
+            PT Mahardika Manajemen Group membuat lowongan pekerjaan untuk bagian pemasaran. 
+            Oleh karena itu, saya bermaksud untuk bergabung dengan perusahaan.
             ```
         2. Paragraf Isi
-        
+
 7. Salam Penutup
     - Umumnya, untuk salam penutup menggunakan `Hormat saya,` disertai akhiran tanda baca koma [`,`]. 
 8. Tanda Tangan dan Nama Jelas Pengirim
