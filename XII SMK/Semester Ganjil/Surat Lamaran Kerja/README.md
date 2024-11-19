@@ -42,14 +42,23 @@
         1. Didalam surat Lamaran
         2. Pada sampul surat
     - Syarat penulisan alamat surat :
-        1. Tidak memiliki tanda titik
-        2. Tidak perlu menggunakan `Kepada Yth.` tetapi langsung menggunakan `Yth.`
-        3. Kata `Jalan` tidak boleh disingkat  menjadi `Jln`
+        1. Tidak memiliki tanda titik.
+        2. Tidak perlu menggunakan `Kepada Yth.` tetapi langsung menggunakan `Yth.`.
+        3. Kata `Jalan` tidak boleh disingkat  menjadi `Jln`.
 5. Salam Pembuka
     - Dalam surat lamaran kerja marak digunakan kata `Dengan hormat,` untuk menjadi salam pembuka dan diakhiri dengan tanda baca koma [`,`].
     - Penulisan menggunakan huruf kapital diawal kata dan huruf kecil untuk kata selanjutnya.
 6. Isi Surat
-    - 
+    - Terdiri atas :
+        1. Paragraf Pembuka
+            - Berisi pendahuluan atau pengantar surat.
+            - Biasanya memuat sumber informasi tempat pelamar mendapatkan lowongan pekerjaan yang disebutkan dan jabatannya.
+            - Contoh :
+            ```
+            Berdasarkan informasi dari surat kabar Republika pada tanggal 19 Juli 2021, PT Mahardika Manajemen Group membuat lowongan pekerjaan untuk bagian pemasaran. Oleh karena itu, saya bermaksud untuk bergabung dengan perusahaan.
+            ```
+        2. Paragraf Isi
+        
 7. Salam Penutup
     - Umumnya, untuk salam penutup menggunakan `Hormat saya,` disertai akhiran tanda baca koma [`,`]. 
 8. Tanda Tangan dan Nama Jelas Pengirim
