@@ -80,7 +80,7 @@
 ### Surat Lamaran Kerja
 ```
 Perihal  : lamaran pekerjaan                                                                        Surakarta, 1 April 2021 
-lampiran : 6 (enam) lembar
+Lampiran : 6 (enam) lembar
 
 Yth. Bapak/Ibu Pimpinan
 PT Indonusa Galang Utama
