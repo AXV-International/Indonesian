@@ -15,41 +15,44 @@
     ```
                                                                                                     Surakarta, 20 Juni 2021
     ```
-2. Perihal Surat
-    - Menerangkan pekara yang menjadi isi pokok dalam surat yang ditujukan untuk melamar pekerjaan.
-    - Syarat penulisan :
+2. Lampiran dan Hal Surat
+   1. Perihal Surat
+      - Menerangkan pekara yang menjadi isi pokok dalam surat yang ditujukan untuk melamar pekerjaan.
+      - Syarat penulisan :
         1. Kata perihal diikuti dengan tanda titik dua.
         2. Huruf pertama kata perihal menggunakan huruf kapital dan kata selanjutnya menggunakan huruf kecil.
         3. Penulisan perihal sejajar dengan tempat dan tanggal surat.
-    - Contoh :
-    ```
-    Perihal  : lamaran pekerjaan                                                                     Surakarta, 20 Juni 2021
-    Lampiran : 3 (tiga) lembar
-    ```
-3. Lampiran Surat
-    - Menunjukkan jumlah dokumen yang disertakan dalam surat lamaran pekerjaan.
-    - Befungsi untuk memeriksa jumlah dokumen yang disertakan.
-    - Pada umumnya, dokumen yang disertakan adalah :
-        - Riwayat Hidup
-        - Fotokopi legalisasi ijazah 
-        - Fotokopi legalisasi transkrip nilai
-        - Fotokopi KTP [Kartu Tanda Pengenal]
-        - SKCK [Surat Keterangan Catatan Kepolisian]
-        - Sertifikasi kompetensi
-4. Alamat Surat
+      - Contoh :
+        ```
+        Perihal  : lamaran pekerjaan                                                              Surakarta, 20 Juni 2021
+        Lampiran : 3 (tiga) lembar
+         ```
+    2. Lampiran Surat
+       - Menunjukkan jumlah dokumen yang disertakan dalam surat lamaran pekerjaan.
+       - Befungsi untuk memeriksa jumlah dokumen yang disertakan.
+       - Pada umumnya, dokumen yang disertakan adalah :
+         - Riwayat Hidup
+         - Fotokopi legalisasi ijazah
+         - Fotokopi legalisasi transkrip nilai
+         - Fotokopi KTP [Kartu Tanda Pengenal]
+         - SKCK [Surat Keterangan Catatan Kepolisian]
+         - Sertifikasi kompetensi
+3. Alamat Surat
     - Berisikan alamat tempat surat yang akan ditujukan.
     - Penulisan alamat surat harus lengkap dan akurat. 
     - Penulisan alamat surat terdapat dua :
-        1. Didalam surat Lamaran
-        2. Pada sampul surat
+        1. Didalam surat Lamaran/alamat luar (ditulis langsung pada kertas surat)
+        2. Pada sampul surat/alamat dalam (sebagai petunjuk bagi kurir dalam menyampaikan surat)
+    - Alamat luar menggunakan `Kepada Yth` sedangkan alamat dalam pakai `Yth`.
     - Syarat penulisan alamat surat :
         1. Tidak memiliki tanda titik.
         2. Tidak perlu menggunakan `Kepada Yth.` tetapi langsung menggunakan `Yth.`.
         3. Kata `Jalan` tidak boleh disingkat  menjadi `Jln`.
-5. Salam Pembuka
-    - Dalam surat lamaran kerja marak digunakan kata `Dengan hormat,` untuk menjadi salam pembuka dan diakhiri dengan tanda baca koma [`,`].
-    - Penulisan menggunakan huruf kapital diawal kata dan huruf kecil untuk kata selanjutnya.
-6. Isi Surat
+4. Salam Pembuka
+   - Sebagai bentuk penghormatan
+   - Dalam surat lamaran kerja marak digunakan kata `Dengan hormat,` untuk menjadi salam pembuka dan diakhiri dengan tanda baca koma [`,`].
+   - Penulisan menggunakan huruf kapital diawal kata dan huruf kecil untuk kata selanjutnya.
+5. Isi Surat
     - Terdiri atas :
         1. Paragraf Pembuka
             - Berisi pendahuluan atau pengantar surat.
@@ -65,11 +68,12 @@
             - Menjelaskan beberapa informasi diri pelamar, seperti nama, jenis kelamin, usia, alamat, pendidikan terakhir, dan kontak yang dapat dihubungi.
         3. Paragraf Penutup
             - Berisi harapan dari pelamar agar dapat diterima diperusahaan yang dilamar. Selain itu, paragraf ini berisi ucapan terimakasih.
-
-7. Salam Penutup
-    - Umumnya, untuk salam penutup menggunakan `Hormat saya,` disertai akhiran tanda baca koma [`,`]. 
-8. Tanda Tangan dan Nama Jelas Pengirim
-    - Tanda tangan serta nama pembuat surat lamaran pekerjaan berada dipojok kanan bawah.
+6. Salam Penutup
+   - Berisikan penegasan ulang tentang apa yang telah dijabarkan, pengungkapan persaan, dan rasa terima kasih terhadap perusahaan yang dituju.
+   - Umumnya, untuk salam penutup menggunakan `Hormat saya,` disertai akhiran tanda baca koma [`,`].
+7. Tanda Tangan dan Nama Jelas Pengirim
+    - Tanda tangan serta nama lengkap pembuat surat lamaran pekerjaan berada dipojok kanan bawah.
+    - Ditulis dengan huruf kapital pada awal setiap unsur nama dan tidak ada tanda titik kecuali penulisan nama gelar.
     - Contoh :
     ```
                                                                                                         Hormat saya,
