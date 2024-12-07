@@ -58,11 +58,11 @@
             - Berisi pendahuluan atau pengantar surat.
             - Biasanya memuat sumber informasi tempat pelamar mendapatkan lowongan pekerjaan yang disebutkan dan jabatannya.
             - Contoh :
-            ```
-            Berdasarkan informasi dari surat kabar Republika pada tanggal 19 Juli 2021, 
-            PT Mahardika Manajemen Group membuat lowongan pekerjaan untuk bagian pemasaran. 
-            Oleh karena itu, saya bermaksud untuk bergabung dengan perusahaan.
-            ```
+              ```
+              Berdasarkan informasi dari surat kabar Republika pada tanggal 19 Juli 2021, 
+              PT Mahardika Manajemen Group membuat lowongan pekerjaan untuk bagian pemasaran. 
+              Oleh karena itu, saya bermaksud untuk bergabung dengan perusahaan.
+              ```
         2. Paragraf Isi
             - Berisi gambaran identitas pelamar secara lengkap dan jelas.
             - Menjelaskan beberapa informasi diri pelamar, seperti nama, jenis kelamin, usia, alamat, pendidikan terakhir, dan kontak yang dapat dihubungi.
