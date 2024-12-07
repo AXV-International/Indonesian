@@ -17,7 +17,7 @@
 4. Penggunaan kata ganti penunjuk
 ## Contoh
 ```
-                                          Pendidikan dan Kenakalan Siswa
+                                             Pendidikan dan Kenakalan Siswa
 -----------------------------------------------------------------------------------------------------------------------------
   Masyarakat dikejutkan dengan munculnya foto sejumlah siswa di sebuah SMK di Jakarta
 yang sedang merokok di dalam kelas. Foto perbuatan tak terpuji para siswa yang menjadi viral di
