@@ -13,7 +13,7 @@
     - Penulisan tempat dan tanggal di pisahkan dengan tanda koma, tidak diakhiri tanda titik, serta nama bulan tidak diganti oleh angka.
     - Contoh :
       ```
-                                                                                              Surakarta, 20 Juni 2021
+                                                                                                  Surakarta, 20 Juni 2021
       ```
 2. Lampiran dan Hal Surat
    1. Perihal Surat
