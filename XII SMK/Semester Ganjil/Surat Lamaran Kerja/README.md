@@ -12,9 +12,9 @@
     - Umumnya ditulis dipojok kanan atas sejajar dengan nomor surat/perihal surat atau pojok kanan bawah sebelum salam penutup.
     - Penulisan tempat dan tanggal di pisahkan dengan tanda koma, tidak diakhiri tanda titik, serta nama bulan tidak diganti oleh angka.
     - Contoh :
-    ```
+      ```
                                                                                                     Surakarta, 20 Juni 2021
-    ```
+      ```
 2. Lampiran dan Hal Surat
    1. Perihal Surat
       - Menerangkan pekara yang menjadi isi pokok dalam surat yang ditujukan untuk melamar pekerjaan.
@@ -75,11 +75,11 @@
     - Tanda tangan serta nama lengkap pembuat surat lamaran pekerjaan berada dipojok kanan bawah.
     - Ditulis dengan huruf kapital pada awal setiap unsur nama dan tidak ada tanda titik kecuali penulisan nama gelar.
     - Contoh :
-    ```
+      ```
                                                                                                         Hormat saya,
                                                                                                        {Tanda Tangan}
                                                                                                     Siti Nurmasyitah, S.E.
-    ```
+      ```
 
 ## Contoh 
 ### Surat Lamaran Kerja
