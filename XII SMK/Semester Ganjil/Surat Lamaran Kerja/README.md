@@ -1,6 +1,6 @@
 # Surat Lamaran Kerja
 ## Pengertian Surat Lamaran Kerja
-- Surat lamaran pekerjaan adalah `surat yang dibuat oleh seorang pelamar atau pencari kerja dan ditujukan kepada instansi atau perusahaan dengan maksud untuk melamar pekerjaan`.
+- Surat lamaran pekerjaan adalah `surat yang dibuat oleh seorang pelamar atau pencari kerja dan ditujukan kepada instansi atau perusahaan dengan maksud untuk melamar pekerjaan`(surat lamaran pekerjaan termasuk kedalam surat dinas).
 - Surat lamaran pekerjaan dibuat secara menarik ( pelamar meyakinkan pihak yang dituju bahwa karakteristik pribadi, keahlian, dan pengalaman seperti yang dimilikinyalah yang sedah dibutuhkan ), rapi, dan sistematis.
 - Surat lamaran pekerjaan terdiri dua bagian:
     1. Bagian Surat Lamaran 
@@ -9,7 +9,8 @@
 ## Struktur Penulisan Surat Lamaran Kerja
 1. Tempat dan Tanggal Surat
     - Merupakan keterangan tempat dan waktu saat dibuat.
-    - Umumnya ditulis dipojok kanan atas atau pojok kanan bawah sebelum salam penutup.
+    - Umumnya ditulis dipojok kanan atas sejajar dengan nomor surat/perihal surat atau pojok kanan bawah sebelum salam penutup.
+    - Penulisan tempat dan tanggal di pisahkan dengan tanda koma, tidak diakhiri tanda titik, serta nama bulan tidak diganti oleh angka.
     - Contoh :
     ```
                                                                                                     Surakarta, 20 Juni 2021
