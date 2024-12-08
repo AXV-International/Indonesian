@@ -1,20 +1,30 @@
 # Teks Editorial
 ## Pengertian Teks Editorial
-- Teks editorial atau tajuk rencana merupakan sebuah teks yang berisi pendapat pribadi seseorang terhadap suatu isu atau permasalahan yang aktual.
+- Teks editorial atau tajuk rencana merupakan `sebuah teks yang berisi pendapat pribadi seseorang terhadap suatu isu atau permasalahan yang aktual`.
 ## Struktur Teks Editorial
 1. Pernyataan Umum
-   - Pernyataan umum atau tesis merupakan bagian yang berisi persoalan, isu, atau pendapat umum/teori mengenai suatu hal atau permasalahan yang dikemukakan.
+   - Pernyataan umum atau tesis merupakan `bagian yang berisi persoalan, isu, atau pendapat umum/teori mengenai suatu hal atau permasalahan yang dikemukakan`.
 2. Argumentasi
    - Menjelaskan secara mendalam pernyataan umum(tesis) yang diyakini kebenarannya oleh penulis melalui pengungkapan fakta-fakta, alasan logis, data hasil temuan, ataupun 
      pernyataan, dan pendapat para ahli sebagai penjelasan argumen penulis.
 3. Penegasan Ulang
-   - Untuk menguatkan atau menegaskan ulang pendapat yang telah ditujang dengan fakta dan juga memuat saran, kritik, bahkan, rekomendasi atas permasalahan yang telah dikemukanan 
+   - Untuk menguatkan atau menegaskan ulang pendapat yang telah ditujang dengan fakta dan juga memuat saran, kritik, bahkan, rekomendasi atas permasalahan yang telah 
+     dikemukanan 
      bagian tesis.
 ## Kaidah Kebahasaan Teks Editorial
 1. Pemilihan kata(diksi)
 2. Penggunaan majas
+   - Majas perbandingan(simile) dan majas penegasan(retoris) sering digunakan.
+     - Majas Simile = Perbandingan eksplisit yang dinyatakan dengan kata depan dan penghubung seperti `ibarat, layaknya, bagaikan, seperti,   
+       dan bagai`.
+     - Majas Retoris = Ungkapan pertanyaan yang jawabannya terkandung dalam pertanyaan tersebut.
+   - Digunakan untuk mengubah sudut pandang pembaca mengenasi isu yang dibahas dan menggugah pembaca untuk berbuat sesuatu.  
 3. Penggunaan knjungsi
+   - Konjungsi merupakan `kata atau ungkapan yang menggabungkan dua satuan bahasa yang sederajat: kata dengan kata, frasa dengan frasa, klausa dengan klausa, serta kalimat   
+     dengan kalimat`.
+   - Menggunakan konjungsi yang menyatakan hubungan kausalitas/sebab akibat yang ditandai dengan kata `sebab, karena, dan oleh karena itu`. 
 4. Penggunaan kata ganti penunjuk
+   - Untuk merujuk pada waktu, tempat, peristiwa, atau hal lain yang menjadi perhatian dalam teks.
 ## Contoh
 ```
                                              Pendidikan dan Kenakalan Siswa
