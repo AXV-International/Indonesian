@@ -40,22 +40,50 @@
    - Contoh: `Setelah ditinggalkan oleh NIS`, Lawang Sewu dialihfungsikan oleh penjajah Belanda dan Jepang sebagai penjara.
 
 # Persamaan dan Perbedaan Teks Cerita Sejarah dan Novel Sejarah
-
+<table>
+<tbody>
+   <tr>
+      <td rowspan="2" align="center">Persamaan</td>
+      <td colspan="2" align="center">Perbedaan</td>
+   </tr>
+   <tr>
+      <td align="center">Teks Cerita Sejarah</td>
+      <td align="center">Novel Sejarah</td>
+   </tr>
+   <tr>
+      <td rowspan="4">Berkaitan dengan Sejarah</td>
+      <td>Tokohnya nyata</td>
+      <td>Tokoknya tidak terlalu nyata</td>
+   </tr>
+   <tr height="19" style="height:14.4pt">
+      <td>Seluruh isinya adalah fakta yang nyata</td>
+      <td>Mengandung kejadian yang tidak nyata</td>
+   </tr>
+   <tr>
+      <td>Berasal dari sumber yang sahih</td>
+      <td>Merupakan hasil rekaan atau imajinasi pengarang</td>
+   </tr>
+   <tr>
+      <td>Karya ilmiah</td>
+      <td>Karya sastra</td>
+   </tr>
+</tbody>
+</table>
 
 # Mengonstruksi Nilai-Nilai dari Informasi Cerita Sejarah dalam sebuah Teks Eksplanasi
-- Beberapa nilai yang berkaitan dengan akhlak dan budi perketi dalam sebuah teks sejarah :
-  - Nilai moral, yaitu nilai yang berkaitan dengan akhlak dan budi pekerti dalam berperilaku.
-  - Nilai sosial/kemasyarakatan, yaitu nilai yang berkaitan dengan norma yang ada di dalam masyarakat.
-  - Nilai religi/keagamaan, yaitu nilai yang berkaitan dengan ajaran agama dan ketuhanan.
-  - Nilai pendidikan/edukasi, yaitu nilai yang berkaitan dengan pengubahan tingkah laku dari buruk ke baik(pengajaran).
-  - Nilai estetis/keindahan, yaitu nilai yang berkaitan dengan hal-hal yang menarik/menyenangkan(rasa seni).
-  - Nilai etika, yaitu nilai yang berkaitan dengan sopan santun dalam kehidupan.
-  - Nilai politis, yaitu nilai yang berkaitan dengan pemerintahaan.
-  - Nilai budaya, yaitu nilai yang berkaitan dengan adat-istiadat.
-  - Nilai kemanusiaan, yaitu nilai yang berhubungan dengan harkat dan martabat manusia.
-  - Nilai psikologis, yaitu nilai yang berkaitan dengan kejiwaan manusia.
-  - Nilai filosofis, yaitu nilai yang berkaitan dengan hakikat, makna, dan tujuan keberadaan manusia di dunia.
-  - Nilai historis(sejarah), yaitu nilai terkandung dalam peristiwa-peristiura sejarah.
-  - Nilai hukum, yaitu nilai yang terkandung dalam kitab-kitab hukum.
-  - Nilai ekonomis, yaitu nilai yang melekat dalam seluruh aktivitas ekonomi.
-  - Nilai perjuangan, yaitu nilai yang berkaitan dengan hakikat perjuangan manusia dalam hidup.
+Beberapa nilai yang berkaitan dengan akhlak dan budi perketi dalam sebuah teks sejarah :
+- Nilai moral, yaitu nilai yang berkaitan dengan akhlak dan budi pekerti dalam berperilaku.
+- Nilai sosial/kemasyarakatan, yaitu nilai yang berkaitan dengan norma yang ada di dalam masyarakat.
+- Nilai religi/keagamaan, yaitu nilai yang berkaitan dengan ajaran agama dan ketuhanan.
+- Nilai pendidikan/edukasi, yaitu nilai yang berkaitan dengan pengubahan tingkah laku dari buruk ke baik(pengajaran).
+- Nilai estetis/keindahan, yaitu nilai yang berkaitan dengan hal-hal yang menarik/menyenangkan(rasa seni).
+- Nilai etika, yaitu nilai yang berkaitan dengan sopan santun dalam kehidupan.
+- Nilai politis, yaitu nilai yang berkaitan dengan pemerintahaan.
+- Nilai budaya, yaitu nilai yang berkaitan dengan adat-istiadat.
+- Nilai kemanusiaan, yaitu nilai yang berhubungan dengan harkat dan martabat manusia.
+- Nilai psikologis, yaitu nilai yang berkaitan dengan kejiwaan manusia.
+- Nilai filosofis, yaitu nilai yang berkaitan dengan hakikat, makna, dan tujuan keberadaan manusia di dunia.
+- Nilai historis(sejarah), yaitu nilai terkandung dalam peristiwa-peristiura sejarah.
+- Nilai hukum, yaitu nilai yang terkandung dalam kitab-kitab hukum.
+- Nilai ekonomis, yaitu nilai yang melekat dalam seluruh aktivitas ekonomi.
+- Nilai perjuangan, yaitu nilai yang berkaitan dengan hakikat perjuangan manusia dalam hidup.
