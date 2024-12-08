@@ -41,8 +41,8 @@
     - Berisikan alamat tempat surat yang akan ditujukan.
     - Penulisan alamat surat harus lengkap dan akurat. 
     - Penulisan alamat surat terdapat dua :
-        1. Didalam surat Lamaran/alamat luar (ditulis langsung pada kertas surat)
-        2. Pada sampul surat/alamat dalam (sebagai petunjuk bagi kurir dalam menyampaikan surat)
+        1. Didalam surat Lamaran/alamat dalam (ditulis langsung pada kertas surat)
+        2. Pada sampul surat/alamat luar (sebagai petunjuk bagi kurir dalam menyampaikan surat)
     - Alamat luar menggunakan `Kepada Yth` sedangkan alamat dalam pakai `Yth`.
     - Syarat penulisan alamat surat :
         1. Tidak memiliki tanda titik.
