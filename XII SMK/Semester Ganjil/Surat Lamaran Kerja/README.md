@@ -67,9 +67,8 @@
             - Berisi gambaran identitas pelamar secara lengkap dan jelas.
             - Menjelaskan beberapa informasi diri pelamar, seperti nama, jenis kelamin, usia, alamat, pendidikan terakhir, dan kontak yang dapat dihubungi.
         3. Paragraf Penutup
-            - Berisi harapan dari pelamar agar dapat diterima diperusahaan yang dilamar. Selain itu, paragraf ini berisi ucapan terimakasih.
+           - Berisikan penegasan ulang tentang apa yang telah dijabarkan, pengungkapan persaan/harapan, dan rasa terima kasih terhadap perusahaan yang dituju.
 6. Salam Penutup
-   - Berisikan penegasan ulang tentang apa yang telah dijabarkan, pengungkapan persaan, dan rasa terima kasih terhadap perusahaan yang dituju.
    - Umumnya, untuk salam penutup menggunakan `Hormat saya,` disertai akhiran tanda baca koma [`,`].
 7. Tanda Tangan dan Nama Jelas Pengirim
     - Tanda tangan serta nama lengkap pembuat surat lamaran pekerjaan berada dipojok kanan bawah.
