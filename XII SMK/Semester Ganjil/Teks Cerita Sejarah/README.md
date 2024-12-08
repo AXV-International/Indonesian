@@ -51,15 +51,16 @@
       <td align="center">Novel Sejarah</td>
    </tr>
    <tr>
-      <td rowspan="4">Berkaitan dengan Sejarah</td>
+      <td rowspan="2">Berkaitan dengan Sejarah</td>
       <td>Tokohnya nyata</td>
-      <td>Tokoknya tidak terlalu nyata</td>
+      <td>Tokohnya tidak terlalu nyata</td>
    </tr>
-   <tr height="19" style="height:14.4pt">
+   <tr>
       <td>Seluruh isinya adalah fakta yang nyata</td>
       <td>Mengandung kejadian yang tidak nyata</td>
    </tr>
    <tr>
+      <td rowspan=2>Informasi berupa fakta</td>
       <td>Berasal dari sumber yang sahih</td>
       <td>Merupakan hasil rekaan atau imajinasi pengarang</td>
    </tr>
