@@ -40,7 +40,7 @@
    - Contoh: `Setelah ditinggalkan oleh NIS`, Lawang Sewu dialihfungsikan oleh penjajah Belanda dan Jepang sebagai penjara.
 
 # Persamaan dan Perbedaan Teks Cerita Sejarah dan Novel Sejarah
-<table>
+<table align="center">
 <tbody>
    <tr>
       <td rowspan="2" align="center">Persamaan</td>
