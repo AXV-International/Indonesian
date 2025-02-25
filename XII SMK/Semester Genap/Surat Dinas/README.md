@@ -20,7 +20,7 @@
 - Surat perintah
 ## Struktur Surat Dinas
 1. Kop surat/kepala surat
-2. Tempat dan tanggal lahir
+2. Tempat dan tanggal surat
 3. Nomor surat
 4. Perihal
 5. Lampiran
